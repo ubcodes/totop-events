@@ -6,7 +6,7 @@ Welcome to the Events Decoration Website repository! In this project, I have cre
 
 ## Demo
 
-Check out the live demo of the Events Decoration Website [here]([https://your-demo-link.com](https://totopevents.netlify.app/)).
+Check out the live demo of the Events Decoration Website  -   https://totopevents.netlify.app.
 
 ## Features
 
